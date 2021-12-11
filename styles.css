@@ -1,0 +1,18 @@
+.blur{
+	background: #ccc;
+	border-bottom:1px solid grey;
+	border-right: 1px solid grey;
+	padding:1rem; 
+	font-weight: bold;
+	font-size: 30px;
+}
+
+
+.active{background:#ccc; padding: 1rem; border-bottom:1px solid grey}
+.inactive{background: orange; 
+border-bottom: 1px solid grey;
+border-right:1px solid grey;
+font-weight: bold;
+font-size: 30px;
+padding:1rem;}
+p{font-weight: bold; font-size: 32px;}
